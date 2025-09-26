@@ -1,2 +1,2 @@
 if "main" == __name__:
-    print("Hello, Mars!")
+    print("Hello, Jupiter!")
